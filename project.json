@@ -1,0 +1,14 @@
+{
+  "name": "Delete_Files_By_Timestamp_Extension",
+  "description": "Delete files by Timestamp and Extension",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6948.23597",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
